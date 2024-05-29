@@ -11,7 +11,7 @@ def int_to_roman(num):
 
     return resultado
 
-print(int_to_roman(3999))
+print(int_to_roman(1994))
 
 def roman_to_int(s):
     
@@ -23,4 +23,4 @@ def roman_to_int(s):
 
     return resultado
 
-print(roman_to_int('XX'))
+print(roman_to_int('MXMCIV'))
